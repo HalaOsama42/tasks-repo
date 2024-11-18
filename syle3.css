@@ -1,0 +1,101 @@
+img{
+    width: 100%;
+    position: absolute;
+    float: left;
+  }
+  .card{
+    background-color: rgb(248, 242, 242);
+    padding: 20px ;
+    padding-left: 15px;
+    border-radius: 8px;
+    text-align: left;
+    font-size: 8px;
+    position: relative;
+    margin-left: 150%;
+    width: 300px;
+    height: 150px;
+    margin: 50px;
+    top: 80px;
+  
+   
+  
+  }
+  .h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #030202;
+  }
+  
+  .p {
+    margin-bottom: 1.5rem;
+    background-color: rgb(15, 14, 14);
+  }
+   .button{
+    background-color: #ffd700; 
+    color: #333;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+  
+   }
+   nav{
+    background-color: rgb(73, 73, 75);
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+  }
+  ul{
+    list-style: none;
+  }
+  ul li a{
+    text-decoration: none;
+    color: rgb(251, 248, 248);
+  }
+  ul li{
+    float: right;
+    margin: 5px;
+  }
+  .fix-clear{
+    clear: both;
+  }
+  
+  *{
+    margin: 0;
+   box-sizing: border-box;
+  }
+  .cards{
+    position: relative;
+    width: 90%;
+    margin: auto;
+    margin-top: 200px;
+  }
+  
+  .carts{
+    background-color: snow;
+    width: calc((100%/4) - 40px);
+    float: left;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: sans-serif;
+    margin-top: 10%;
+    border-radius: 5px;
+  }
+  .fix-clear{
+    clear: both;
+  }
+  .center{
+    text-align: center;
+  }
+  
+  h3{
+    padding: 20px;
+  } 
+  
+  
+  
+  
+  
+  
